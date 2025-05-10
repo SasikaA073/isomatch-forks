@@ -1,0 +1,1 @@
+# Placeholder for points2bwimage.m conversion 
